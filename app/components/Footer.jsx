@@ -1,4 +1,4 @@
-export default function Footer() { return ( <footer className="w-full border-t mt-10 py-6 px-4 text-sm text-gray-600"> <div className="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4"> {/* Contact Info */} <div className="text-center md:text-left text-white hover:text-gray-400"> <p>Contact: ehabtt289@example.com</p> <p>Phone: +972 56-911-3515</p> </div>
+export default function Footer() { return ( <footer className="w-full border-t mt-10 py-6 px-4 text-sm text-gray-600"> <div className="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4"> {/* Contact Info */} <div className="text-center md:text-left text-white hover:text-gray-400"> <p>Contact: ehabtt289@gmail.com</p> <p>Phone: +972 56-911-3515</p> </div>
 
 {/* Social Links */}
     <div className="flex gap-4">
