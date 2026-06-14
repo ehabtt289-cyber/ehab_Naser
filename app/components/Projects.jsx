@@ -87,6 +87,14 @@ const Projects = ()=>{
          github:"https://github.com/ehabtt289-cyber/backend_ecommerce",
          link:"https://backend-ecommerce-c7y3.onrender.com"
       },
+        {
+         title:"palestine ",
+         category:"frontend",
+         description:"An interactive documentary website that narrates the history, culture and personalities of Palestine in three languages cinematically",
+         image:'/imgpalestien.jpg',
+         github:"https://github.com/ehabtt289-cyber/backend_ecommerce",
+         link:"https://preview--roots-of-palestine.lovable.app/"
+      },
       {
          title:"hospatel platform",
             category:"backend",
