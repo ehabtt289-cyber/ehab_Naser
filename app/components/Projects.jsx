@@ -81,6 +81,14 @@ const Projects = ()=>{
    const projects =[
      
       {
+         title:"Ai-study-Tawjihi Platform",
+         category:"fullstack",
+         description:"Upload notes, get AI summaries and quizzes instantly",
+         image:'/tawjihi-promo.png',
+         github:"https://github.com/ehabtt289-cyber/ai-study-Tawjihi",
+         link:"https://enlighten-learn.lovable.app/"
+      },
+      {
          title:"AI-IELETS Platform",
          category:"fullstack",
          description:"AI-powered IELTS prep platform with personalized lessons and instant feedback.",
