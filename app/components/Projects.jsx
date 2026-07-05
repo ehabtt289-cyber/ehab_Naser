@@ -82,7 +82,7 @@ const Projects = ()=>{
      
       {
          title:"AI-IELETS Platform",
-         category:"fullstack ",
+         category:"fullstack",
          description:"AI-powered IELTS prep platform with personalized lessons and instant feedback.",
          image:'/eb1915ad-f8b2-4dfb-8e7e-65854998a6f8.png',
          github:"https://github.com/ehabtt289-cyber/ielts-app",
