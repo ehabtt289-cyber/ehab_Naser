@@ -84,7 +84,7 @@ const Projects = ()=>{
          title:"AI-IELETS Platform",
          category:"fullstack ",
          description:"A backend e-commerce platform with user authentication, product management, using Node.js and MongoDB.",
-         image:'/apistore.jpg',
+         image:'/eb1915ad-f8b2-4dfb-8e7e-65854998a6f8.png',
          github:"https://github.com/ehabtt289-cyber/ielts-app",
          link:"https://preview--boost-my-ielts.lovable.app/"
       },
