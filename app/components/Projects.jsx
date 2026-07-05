@@ -79,6 +79,15 @@ const Projects = ()=>{
 
    const categories = ["all","frontend","backend","fullstack"]
    const projects =[
+     
+      {
+         title:"AI-IELETS Platform",
+         category:"fullstack ",
+         description:"A backend e-commerce platform with user authentication, product management, using Node.js and MongoDB.",
+         image:'/apistore.jpg',
+         github:"https://github.com/ehabtt289-cyber/ielts-app",
+         link:"https://preview--boost-my-ielts.lovable.app/"
+      },
       {
          title:"E-commerce Platform",
          category:"backend",
@@ -87,6 +96,7 @@ const Projects = ()=>{
          github:"https://github.com/ehabtt289-cyber/backend_ecommerce",
          link:"https://backend-ecommerce-c7y3.onrender.com"
       },
+     
         {
          title:"palestine ",
          category:"frontend",
